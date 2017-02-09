@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CiclodeVida</string>
+    <string name="onstart">OnStart</string>
+    <string name="onresume">OnResume</string>
+    <string name="onrestart">OnRe-Start</string>
+    <string name="onpause">OnPause</string>
+    <string name="onstop">OnStop</string>
+    <string name="ondestroy">OnDestroyt</string>
 </resources>
